@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+/* Bus Eta */
+.bus-eta-info--container {
+  display: flex;
+  margin: 5px;
+
+}
+
+tr.bus-eta-info--container td{
+  font-size: larger;
+  padding: 10px;
+  text-align: center;
+}
